@@ -1,0 +1,37 @@
+2019-12-19 11:44:30.1864 ERROR Error loading classrooms. Exception: The relationship from 'Contact.PersonAddress' to 'PersonAddress' with foreign key properties {'PersonId' : Nullable<int>} cannot target the primary key {'AddressId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-19 11:48:24.5201 ERROR Error loading classrooms. Exception: The relationship from 'Contact.PersonAddress' to 'PersonAddress' with foreign key properties {'PersonId' : Nullable<int>} cannot target the primary key {'AddressId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-19 11:51:33.9498 ERROR Something went wrong inside GetFamilyDetail action: The relationship from 'Contact.PersonAddress' to 'PersonAddress' with foreign key properties {'PersonId' : Nullable<int>} cannot target the primary key {'AddressId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-19 11:54:54.8150 ERROR Error loading classrooms. Exception: The relationship from 'Contact.PersonAddress' to 'PersonAddress' with foreign key properties {'PersonId' : Nullable<int>} cannot target the primary key {'AddressId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-19 15:29:35.7688 ERROR Something went wrong inside GetFamilyDetail action: Error mapping types.
+
+Mapping types:
+Contact -> ContactViewModel
+Entities.Models.Contact -> ClassroomConnect.Api.ViewModels.ContactViewModel
+
+Type Map configuration:
+Contact -> ContactViewModel
+Entities.Models.Contact -> ClassroomConnect.Api.ViewModels.ContactViewModel
+
+Destination Member:
+Address
+
+2019-12-19 15:30:33.2847 ERROR Something went wrong inside GetFamilyDetail action: Error mapping types.
+
+Mapping types:
+Contact -> ContactViewModel
+Entities.Models.Contact -> ClassroomConnect.Api.ViewModels.ContactViewModel
+
+Type Map configuration:
+Contact -> ContactViewModel
+Entities.Models.Contact -> ClassroomConnect.Api.ViewModels.ContactViewModel
+
+Destination Member:
+Address
+
+2019-12-19 16:08:33.7816 INFO Found 2 guardians with search term: Conner
+2019-12-19 16:10:30.7810 INFO Found 2 guardians with search term: Conner
+2019-12-19 16:24:07.0820 INFO Found 2 guardians with search term: Conner
+2019-12-19 16:35:28.9756 INFO Found 2 guardians with search term: Conner
+2019-12-19 16:39:28.4102 INFO Found 2 guardians with search term: Conner
+2019-12-19 16:39:55.2748 INFO Found 2 guardians with search term: Conner
+2019-12-19 16:41:37.3181 INFO Found 2 guardians with search term: Conner

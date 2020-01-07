@@ -1,0 +1,32 @@
+2019-12-16 13:35:55.1261 INFO Created record for Guardian: 3d43809b-bd30-4882-68f6-08d782678cb9
+2019-12-16 13:35:55.4106 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2019-12-16 14:03:35.9131 INFO Created record for Guardian: 56902076-bf5a-4a51-5c5e-08d7826b6a59
+2019-12-16 14:03:53.2183 INFO Created record for Guardian: fc427b66-c60f-4ed2-5c5f-08d7826b6a59
+2019-12-16 14:45:48.2299 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:46:58.7688 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:49:45.0135 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:49:53.4416 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:51:09.1574 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:52:06.2077 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:53:28.8352 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:54:42.2840 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 14:56:40.9853 INFO Found 1 guardians with search term: Logan
+2019-12-16 15:21:23.9875 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:22:00.5573 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:22:35.6389 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:23:31.0706 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:24:34.7186 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:25:13.0370 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:26:26.3820 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:29:11.7604 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:31:41.5871 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:33:31.5202 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:37:56.2800 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:38:07.8660 INFO Found 2 guardians with search term: Conner
+2019-12-16 15:39:17.4397 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:39:22.8309 INFO Found 2 guardians with search term: Conner
+2019-12-16 15:39:55.9817 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:40:03.3264 INFO Found 2 guardians with search term: Conner
+2019-12-16 15:41:59.9047 INFO Found 2 guardians with search term: Godfrey
+2019-12-16 15:42:04.1276 INFO Found 2 guardians with search term: Conner
+2019-12-16 15:42:12.0552 INFO Found 1 guardians with search term: Logan

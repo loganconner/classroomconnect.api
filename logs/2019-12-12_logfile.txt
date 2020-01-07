@@ -1,0 +1,7 @@
+2019-12-12 13:48:38.3179 ERROR Something went wrong inside GetFamilyDetail action: Invalid column name 'IsDeleted'.
+Invalid column name 'IsDeleted'.
+2019-12-12 14:22:52.8445 ERROR Something went wrong inside GetFamilyDetail action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Family -> FamilyDetailViewModel
+Entities.Models.Family -> ClassroomConnect.Api.ViewModels.FamilyDetailViewModel

@@ -1,0 +1,84 @@
+2020-01-02 09:14:11.8799 INFO Found 2 guardians with search term: Conner
+2020-01-02 09:49:02.0921 INFO Created record for Guardian: 8e7a4d20-c9ce-45f0-483e-08d78fa3abc2
+2020-01-02 09:49:36.7998 INFO Created record for Guardian: 346871d3-ad6b-4252-483f-08d78fa3abc2
+2020-01-02 10:04:27.4285 INFO Created record for Guardian: 820922f1-ea71-4074-97df-08d78fa5d34d
+2020-01-02 10:05:43.4009 INFO Created record for Guardian: 3d3fabe0-e877-45af-97e0-08d78fa5d34d
+2020-01-02 10:16:43.0153 INFO Created record for Guardian: 3c8f126f-9ffb-4ccf-97e1-08d78fa5d34d
+2020-01-02 10:16:43.1141 INFO Created record for Guardian: 8e2b7f39-a22a-4e27-97e2-08d78fa5d34d
+2020-01-02 10:22:35.9405 INFO Found 3 guardians with search term: Conner
+2020-01-02 10:43:24.4929 INFO Created record for Guardian: 8451d4d7-a5e6-4df4-97e3-08d78fa5d34d
+2020-01-02 10:43:24.6147 INFO Created record for Guardian: 43152895-1011-4cdc-97e4-08d78fa5d34d
+2020-01-02 10:49:08.8992 INFO Created record for Guardian: 10c662b6-08d4-4810-97e5-08d78fa5d34d
+2020-01-02 10:49:09.0460 INFO Created record for Guardian: 3d4aa02e-0e22-4902-97e6-08d78fa5d34d
+2020-01-02 10:54:46.8705 INFO Created record for Guardian: 1e6e6bf5-0a6b-4d2c-97e7-08d78fa5d34d
+2020-01-02 10:54:47.0098 INFO Created record for Guardian: 6b2c39c3-27a5-4ce3-97e8-08d78fa5d34d
+2020-01-02 11:06:51.9173 INFO Created record for Guardian: 66521a39-df8c-4755-97e9-08d78fa5d34d
+2020-01-02 11:06:51.9949 INFO Created record for Guardian: 13f7723b-8462-4b6c-97ea-08d78fa5d34d
+2020-01-02 11:10:59.4565 INFO Created record for Guardian: 32801a06-b707-4bad-97eb-08d78fa5d34d
+2020-01-02 11:10:59.5629 INFO Created record for Guardian: 5947c7bb-d275-40c3-97ec-08d78fa5d34d
+2020-01-02 11:26:40.6904 INFO Created record for Guardian: 1654504c-7a78-4b75-97ed-08d78fa5d34d
+2020-01-02 11:26:40.8871 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 11:26:41.0536 INFO Created record for Guardian: fcf6fd0b-7ebc-45fa-97ee-08d78fa5d34d
+2020-01-02 11:26:41.1046 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 11:26:59.8107 ERROR Family with id: 1b0ca00a-d849-4d14-50f8-08d78fa4c74f, hasn't been found in db.
+2020-01-02 11:49:41.9750 INFO Created record for Guardian: 6746a84a-5190-40ef-97ef-08d78fa5d34d
+2020-01-02 11:49:42.0759 INFO Created record for Guardian: 5c2b6c3f-ba12-428b-97f0-08d78fa5d34d
+2020-01-02 11:56:39.8406 INFO Found 2 guardians with search term: Conner
+2020-01-02 11:56:54.4251 INFO Found 3 guardians with search term: Con
+2020-01-02 12:04:46.3631 INFO Found 3 guardians with search term: Con
+2020-01-02 12:06:35.8072 INFO Found 3 guardians with search term: Con
+2020-01-02 12:10:50.1780 INFO Found 3 guardians with search term: Con
+2020-01-02 12:31:14.8816 INFO Found 3 guardians with search term: Con
+2020-01-02 12:34:36.6250 INFO Found 3 guardians with search term: Con
+2020-01-02 12:46:38.7730 INFO Found 3 guardians with search term: Con
+2020-01-02 12:50:16.4476 INFO Found 3 guardians with search term: Con
+2020-01-02 12:50:32.7627 INFO Found 3 guardians with search term: Con
+2020-01-02 12:57:19.5217 INFO Found 3 guardians with search term: Con
+2020-01-02 12:59:03.8226 INFO Found 3 guardians with search term: Con
+2020-01-02 12:59:39.4841 INFO Created record for Child: cb442a59-c9ed-4276-87d3-08d78fbe4cf9
+2020-01-02 12:59:39.7261 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 13:13:00.9279 INFO Found 3 guardians with search term: Con
+2020-01-02 13:13:24.3244 INFO Created record for Child: 2cb5a325-ad88-4759-87d4-08d78fbe4cf9
+2020-01-02 13:13:24.3968 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 13:14:37.5746 INFO Found 3 guardians with search term: Con
+2020-01-02 13:15:05.5314 INFO Created record for Child: 4116b421-7f18-4bf0-87d5-08d78fbe4cf9
+2020-01-02 13:15:05.5966 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 13:22:10.2123 INFO Found 3 guardians with search term: Con
+2020-01-02 13:22:31.7513 INFO Created record for Child: cc242bd9-1844-40d5-87d6-08d78fbe4cf9
+2020-01-02 13:22:31.8173 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 13:26:59.2447 INFO Found 3 guardians with search term: Con
+2020-01-02 13:27:32.1540 INFO Created record for Child: 94454097-507f-4971-1be7-08d78fc23024
+2020-01-02 13:31:25.6930 INFO Found 3 guardians with search term: Con
+2020-01-02 13:31:49.7018 INFO Created record for Child: 8e1771c3-f2f2-495f-0ce6-08d78fc2cb7a
+2020-01-02 13:32:59.5389 INFO Found 3 guardians with search term: Con
+2020-01-02 13:35:05.3459 INFO Found 3 guardians with search term: Con
+2020-01-02 13:36:01.0734 INFO Found 3 guardians with search term: Con
+2020-01-02 13:38:12.8460 INFO Created record for Child: 59d358dd-39dd-4b15-db32-08d78fc3afd8
+2020-01-02 14:21:28.3926 INFO Found 2 guardians with search term: Conner
+2020-01-02 15:00:22.5109 INFO Created record for Guardian: 8fdaec8a-dc1e-4eff-7086-08d78fcf2a2f
+2020-01-02 15:02:16.9382 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 15:02:16.9898 INFO Created record for Guardian: 61ddd321-b493-492c-7087-08d78fcf2a2f
+2020-01-02 15:02:21.5034 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 15:05:15.7238 INFO Created record for Guardian: f07c009e-5647-48af-7088-08d78fcf2a2f
+2020-01-02 15:05:15.7991 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 15:05:15.9543 INFO Created record for Guardian: 66f2d1ff-7665-41ac-7089-08d78fcf2a2f
+2020-01-02 15:05:16.0144 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 15:08:02.5458 INFO Created record for Guardian: 84be841e-6fdd-42f6-3adb-08d78fd03c5b
+2020-01-02 15:09:12.5146 INFO Created record for Guardian: 4ba4683d-e9d5-438d-3adc-08d78fd03c5b
+2020-01-02 15:10:50.3314 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 15:10:50.3314 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-02 15:13:21.7727 INFO Created record for Guardian: f0a4b2a6-0b4b-4ebf-3add-08d78fd03c5b
+2020-01-02 15:18:24.4140 INFO Created record for Guardian: 1aa1c51d-f88a-4c0b-874a-08d78fd1af05
+2020-01-02 15:23:29.5962 INFO Created record for Guardian: 1edbd1e5-ae52-4e52-5b81-08d78fd264e9
+2020-01-02 15:23:49.5992 INFO Created record for Guardian: ed7a6b35-8390-4996-5b82-08d78fd264e9
+2020-01-02 15:25:26.1916 INFO Created record for Child: b73e222f-29e0-4ef1-741a-08d78fd2aa73
+2020-01-02 15:27:04.5462 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 15:27:12.2801 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 15:27:19.7004 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 15:27:26.5287 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 15:29:24.2803 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 15:31:55.5697 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 15:32:39.8430 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-02 16:18:06.9223 ERROR Error loading student list for classroom 98a55f7d-d22f-478d-a166-480d6acc41b2. Exception: The entity type 'PersonPhone' requires a primary key to be defined. If you intended to use a keyless entity type call 'HasNoKey()'.
+2020-01-02 16:18:27.6966 ERROR Error loading classrooms. Exception: The entity type 'PersonPhone' requires a primary key to be defined. If you intended to use a keyless entity type call 'HasNoKey()'.
+2020-01-02 16:20:42.8263 ERROR Something went wrong inside GetFamilyDetail action: Expression of type 'System.Linq.IOrderedQueryable`1[Entities.Models.PersonAddress]' cannot be used for return type 'System.Linq.IOrderedEnumerable`1[Entities.Models.PersonAddress]'

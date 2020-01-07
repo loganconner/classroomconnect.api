@@ -1,0 +1,6 @@
+2020-01-06 12:21:37.9171 ERROR Something went wrong inside UpdateContact action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-06 13:51:29.4288 ERROR Error loading student list for classroom 98a55f7d-d22f-478d-a166-480d6acc41b2. Exception: Data is Null. This method or property cannot be called on Null values.
+2020-01-06 15:32:00.0406 ERROR Error loading student list for classroom 98a55f7d-d22f-478d-a166-480d6acc41b2. Exception: Data is Null. This method or property cannot be called on Null values.
+2020-01-06 15:32:27.1487 ERROR Error loading student list for classroom 98a55f7d-d22f-478d-a166-480d6acc41b2. Exception: Data is Null. This method or property cannot be called on Null values.
+2020-01-06 15:34:01.8460 ERROR Error loading student list for classroom 98A55F7D-D22F-478D-A166-480D6ACC41B2. Exception: Data is Null. This method or property cannot be called on Null values.
+2020-01-06 15:35:40.4619 ERROR Error loading student list for classroom 98A55F7D-D22F-478D-A166-480D6ACC41B2. Exception: Data is Null. This method or property cannot be called on Null values.

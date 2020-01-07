@@ -1,0 +1,27 @@
+2019-12-17 08:34:00.1512 INFO Found 2 guardians with search term: Godfrey
+2019-12-17 08:41:45.7425 INFO Found 2 guardians with search term: Godfrey
+2019-12-17 08:47:27.2635 INFO Found 2 guardians with search term: Godfrey
+2019-12-17 08:47:28.8214 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 08:49:33.8937 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 08:50:09.1112 INFO Found 2 guardians with search term: Godfrey
+2019-12-17 08:50:35.8354 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 08:51:16.0016 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:01:21.4514 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:01:41.1470 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:01:44.0998 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:02:59.2613 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:03:44.4756 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:04:00.6246 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:04:20.3267 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:12:36.0361 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:13:10.1025 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:29:30.2335 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2019-12-17 09:50:34.5479 INFO Found 2 guardians with search term: Godfrey
+2019-12-17 10:17:02.6218 INFO Found 2 guardians with search term: Godfrey
+2019-12-17 13:19:53.8345 ERROR Error loading student list for classroom 98A55F7D-D22F-478D-A166-480D6ACC41B2. Exception: Object reference not set to an instance of an object.
+2019-12-17 13:23:33.1466 ERROR Error loading student list for classroom 98A55F7D-D22F-478D-A166-480D6ACC41B2. Exception: Invalid column name 'FullName'.
+2019-12-17 13:24:40.2725 ERROR Error loading student list for classroom 98A55F7D-D22F-478D-A166-480D6ACC41B2. Exception: Object reference not set to an instance of an object.
+2019-12-17 14:50:18.4333 ERROR Something went wrong inside CreateGuardian action: The relationship from 'Allergy' to 'Child.Allergies' with foreign key properties {'AllergyId' : int} cannot target the primary key {'ChildId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-17 14:50:35.8160 ERROR Something went wrong inside CreateGuardian action: The relationship from 'Allergy' to 'Child.Allergies' with foreign key properties {'AllergyId' : int} cannot target the primary key {'ChildId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-17 14:53:29.3998 ERROR Something went wrong inside CreateGuardian action: The relationship from 'Allergy' to 'Child.Allergies' with foreign key properties {'AllergyId' : int} cannot target the primary key {'ChildId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-12-17 14:53:34.4134 ERROR Something went wrong inside CreateGuardian action: The relationship from 'Allergy' to 'Child.Allergies' with foreign key properties {'AllergyId' : int} cannot target the primary key {'ChildId' : Guid} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.

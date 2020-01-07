@@ -1,0 +1,24 @@
+2020-01-03 14:15:14.3139 INFO Found 2 guardians with search term: Godfrey
+2020-01-03 14:16:11.4016 INFO Found 2 guardians with search term: Godfrey
+2020-01-03 14:17:41.9744 INFO Found 2 guardians with search term: Godfrey
+2020-01-03 14:18:38.7443 INFO Found 2 guardians with search term: Godfrey
+2020-01-03 14:19:09.2804 INFO Created record for Child: 3dc9c36a-16b4-487f-4944-08d790929266
+2020-01-03 14:19:13.3417 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-03 14:23:15.2714 INFO Found 2 guardians with search term: Godfrey
+2020-01-03 14:24:00.6250 INFO Created record for Child: a4830ac4-35a1-4f11-4945-08d790929266
+2020-01-03 14:24:37.0521 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-03 14:30:05.3038 INFO Found 2 guardians with search term: Godfrey
+2020-01-03 14:30:30.8004 INFO Created record for Child: d2d22eed-ecb9-42da-4946-08d790929266
+2020-01-03 14:30:56.8016 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-03 14:31:32.2528 INFO Found 2 guardians with search term: Godf
+2020-01-03 14:35:48.3153 INFO Found 2 guardians with search term: Godf
+2020-01-03 14:38:07.9596 INFO Found 2 guardians with search term: Godf
+2020-01-03 14:38:43.6266 INFO Found 2 guardians with search term: Godf
+2020-01-03 14:39:25.9456 INFO Created record for Child: 5d2d8fb5-26be-4bbd-4947-08d790929266
+2020-01-03 15:12:37.6983 INFO Created record for Child: 2fee23cb-920c-41fc-355b-08d7909a0abe
+2020-01-03 15:12:37.9786 ERROR Something went wrong inside CreateGuardian action: An error occurred while updating the entries. See the inner exception for details.
+2020-01-03 15:34:08.3348 ERROR Something went wrong inside UpdateChild action: Value cannot be null. (Parameter 'source')
+2020-01-03 15:36:01.5266 ERROR Something went wrong inside UpdateChild action: Value cannot be null. (Parameter 'source')
+2020-01-03 15:45:04.5517 ERROR Something went wrong inside UpdateChild action: Value cannot be null. (Parameter 'source')
+2020-01-03 15:46:38.0304 ERROR Something went wrong inside UpdateChild action: Value cannot be null. (Parameter 'source')
+2020-01-03 15:47:25.4908 ERROR Something went wrong inside UpdateChild action: Value cannot be null. (Parameter 'source')

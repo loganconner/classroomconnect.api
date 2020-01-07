@@ -1,0 +1,8 @@
+2019-12-18 12:05:49.5319 ERROR Something went wrong inside GetGuardian action: Invalid column name 'PersonPhoneId'.
+Invalid column name 'IsDeleted'.
+2019-12-18 13:16:18.2879 ERROR Something went wrong inside GetGuardian action: The entity type 'ChildAllergy' requires a primary key to be defined. If you intended to use a keyless entity type call 'HasNoKey()'.
+2019-12-18 13:19:56.9429 ERROR Something went wrong inside GetGuardian action: Invalid column name 'IsDeleted'.
+2019-12-18 14:20:16.1902 ERROR Something went wrong inside GetFamilyDetail action: Object reference not set to an instance of an object.
+2019-12-18 14:23:22.8105 ERROR Something went wrong inside GetFamilyDetail action: Object reference not set to an instance of an object.
+2019-12-18 14:28:21.9971 ERROR Something went wrong inside GetFamilyDetail action: Object reference not set to an instance of an object.
+2019-12-18 14:29:13.3758 ERROR Something went wrong inside GetFamilyDetail action: Object reference not set to an instance of an object.
