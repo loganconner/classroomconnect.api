@@ -39,6 +39,6 @@ namespace Entities.Models
         public int IsDeleted { get; set; }
         public string ImageUrl { get; set; }
 
-        public IDictionary<int,ChildAllergy> Allergies { get; set; }
+        public IList<ChildAllergy> Allergies { get; set; }
     }
 }

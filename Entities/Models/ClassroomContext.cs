@@ -24,7 +24,7 @@ namespace Entities.Models
             .Property(b => b.Allergies)
             .HasConversion(
                 v => JsonConvert.SerializeObject(v),
-                v => JsonConvert.DeserializeObject<IDictionary<int, ChildAllergy>>(v));
+                v => JsonConvert.DeserializeObject<List<ChildAllergy>>(v));
 
             base.OnModelCreating(builder);
         }

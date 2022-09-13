@@ -39,6 +39,6 @@ namespace ClassroomConnect.Api.ViewModels
 
         public string ImageUrl { get; set; }
 
-        public IDictionary<int,ChildAllergyViewModel> Allergies { get; set; }
+        public IList<ChildAllergyViewModel> Allergies { get; set; }
     }
 }

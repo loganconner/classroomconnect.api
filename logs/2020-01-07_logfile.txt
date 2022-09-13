@@ -1,0 +1,3 @@
+2020-01-07 14:16:33.0551 ERROR Error loading classrooms. Exception: The entity type 'ChildAllergy' requires a primary key to be defined. If you intended to use a keyless entity type call 'HasNoKey()'.
+2020-01-07 14:28:47.5523 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.
+2020-01-07 14:28:54.2159 ERROR Something went wrong inside GetFamilyDetail action: Lambda expression used inside Include is not valid.

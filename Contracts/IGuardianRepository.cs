@@ -10,5 +10,7 @@ namespace Contracts
         Guardian GetGuardianWithDetails(Guid guardianId);
 
         List<Guardian> GetChildGuardiansWithDetails(Guid familyId);
+
+        List<Guardian> GetGuardianList();
     }
 }

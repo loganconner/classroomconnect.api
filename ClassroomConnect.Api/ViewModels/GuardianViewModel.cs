@@ -17,7 +17,7 @@ namespace ClassroomConnect.Api.ViewModels
         public bool IsPrimaryGuardian { get; set; }
         public Guid FamilyId { get; set; }
         public bool IsDeleted { get; set; }
-
+        public List<ChildViewModel> Children { get; set; }
         public Guid? HomeAddressId { get; set; }
         public AddressViewModel HomeAddress { get; set; }
         public Guid? MobilePhoneId { get; set; }

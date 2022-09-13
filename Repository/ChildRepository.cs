@@ -18,8 +18,6 @@ namespace Repository
         public Child GetChildWithDetails(Guid childId)
         {
             var child = FindByCondition(c => c.ChildId.Equals(childId))
-                .Include(a => a.ChildAllergies)
-                .ThenInclude(i => i.Allergies)
                 .FirstOrDefault();
 
             return child;

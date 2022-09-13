@@ -646,6 +646,49 @@ namespace ClassroomConnect.Api.Controllers
 
         #region Guardian
 
+        [HttpGet]
+        [Route("GetPrimaryGuardianList/")]
+        public IActionResult GetPrimaryGuardianList()
+        {
+            try
+            {
+                List<GuardianViewModel> guardianList = new List<GuardianViewModel>();
+
+                var guardians = _repoWrapper.Guardian.GetGuardianList();
+
+                if (guardians != null)
+                {
+                    foreach (var guardian in guardians)
+                    {
+                        var guardianVM = _mapper.Map<GuardianViewModel>(guardian);
+                        var children = _repoWrapper.Child.FindByCondition(i => i.FamilyId == guardian.FamilyId).ToList();
+
+                        guardianVM.Children = new List<ChildViewModel>();
+
+                        foreach (var child in children)
+                        {
+                            guardianVM.Children.Add(new ChildViewModel {ChildId = child.ChildId, FirstName = child.FirstName, LastName = child.LastName, FullName = child.FullName });
+                        }
+                        
+
+                        guardianList.Add(guardianVM);
+                    }
+                }
+                else
+                {
+                    _logger.LogError($"Unable to load guardian list.");
+                    return NotFound();
+                }
+
+                return Ok(guardianList);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Error loading guardianList. Exception: {ex.Message}");
+                return BadRequest();
+            }
+        }
+
         [HttpPost]
         [Route("CreateGuardian")]
         public IActionResult CreateGuardian([FromBody]GuardianViewModel guardian)

@@ -1,0 +1,7 @@
+2020-01-21 08:58:16.3327 INFO Found 3 guardians with search term: Conner
+2020-01-21 09:00:27.7068 INFO Found 3 guardians with search term: Conner
+2020-01-21 11:08:35.1904 INFO Found 3 guardians with search term: Conner
+2020-01-21 11:08:54.1877 INFO Found 3 guardians with search term: Conner
+2020-01-21 11:10:03.3881 INFO Found 3 guardians with search term: Conner
+2020-01-21 11:11:00.4053 INFO Found 3 guardians with search term: Conner
+2020-01-21 11:53:42.5449 INFO Found 3 guardians with search term: Conner

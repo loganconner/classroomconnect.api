@@ -1,0 +1,2 @@
+2020-01-10 14:05:06.3203 INFO Found 2 guardians with search term: Godfrey
+2020-01-10 14:06:13.9269 INFO Found 2 guardians with search term: Godf

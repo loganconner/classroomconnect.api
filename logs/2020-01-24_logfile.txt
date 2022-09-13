@@ -1,0 +1,5 @@
+2020-01-24 09:30:05.3248 INFO Found 2 guardians with search term: Godfrey
+2020-01-24 09:30:27.3981 INFO Found 2 guardians with search term: Godfrey
+2020-01-24 09:31:11.4765 INFO Found 2 guardians with search term: Godfrey
+2020-01-24 09:32:12.8323 INFO Found 2 guardians with search term: Godfrey
+2020-01-24 09:32:45.7954 INFO Found 2 guardians with search term: Godfrey

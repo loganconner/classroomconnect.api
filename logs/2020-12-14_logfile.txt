@@ -1,0 +1,5 @@
+2020-12-14 12:41:17.7041 INFO Found 3 guardians with search term: Conner
+2020-12-14 12:52:05.6402 INFO Found 3 guardians with search term: Conner
+2020-12-14 12:52:06.0319 INFO Found 3 guardians with search term: Conner
+2020-12-14 14:44:53.5518 ERROR Error loading guardianList. Exception: Object reference not set to an instance of an object.
+2020-12-14 14:49:11.4249 ERROR Error loading guardianList. Exception: Object reference not set to an instance of an object.

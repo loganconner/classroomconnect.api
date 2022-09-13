@@ -8,6 +8,8 @@ namespace Entities.Models
 {
     public class ChildAllergy
     {
+        [Key]
+        public int AllergyId { get; set; }
         public Allergy Allergy { get; set; }
         public AllergySeverity Severity { get; set; }
     }

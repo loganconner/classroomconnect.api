@@ -15,6 +15,18 @@ namespace Repository
         {
         }
 
+        public List<Guardian> GetGuardianList()
+        {
+            var guardians = FindByCondition(guardian => !guardian.IsDeleted)
+                .Include(i => i.HomeAddress)
+                .Include(p => p.WorkAddress)
+                .Include(i => i.MobilePhone)
+                .Include(p => p.WorkPhone)
+                .ToList();
+
+            return guardians;
+        }
+
         public Guardian GetGuardianWithDetails(Guid guardianId)
         {
             var guardian = FindByCondition(guardian => guardian.GuardianId.Equals(guardianId))
